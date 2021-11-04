@@ -1,6 +1,4 @@
-## <div align="center">🌚 Hello, I'm Karlo 🌝</div>
----
-
+<h1 align="center">🌚 Hello, I'm Karlo 🌝</h1>
 <!-- Maybe add some images up here -->
 I'm a software Engineer with Full Stack and mobile (iOS) experience.<br> Currently making games 👾
 
