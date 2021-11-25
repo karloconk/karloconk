@@ -2,8 +2,6 @@
 
 I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Currently making games 👾
 
-<br>
-
 ### 🤓 Some things about me:
 ---
 <br>
@@ -18,8 +16,6 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
     src="https://cdn3.iconfinder.com/data/icons/picons-social/57/74-soundcloud-512.png" />
 </a>
 
-<br>
-
 ### 🤵 My LinkedIn:
 ---
 
@@ -31,17 +27,37 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
   </a>
 </p>
 
-### 🔥 Latest (cool) projects:
+### 🔥 Latest projects:
 ---
 
 <br>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/jose-karlo-hurtado-corona-078850bb">
-    <img alt="LinkedIn" width="400px"
-      src="assets/rounded_catlisseum.gif" />
+  <a target="_blank" href="https://drkalavera.itch.io/catlisseum">
+    <img alt="Catlisseum" width="400px"
+      src="assets/CatlisseumTitle.png" />
   </a>
 </p>
 
+<h3 align="center"> 🐱 Catlisseum: 🐱  </h3>
+<p  align="center">
+  <table align="center">
+    <tr>
+      <td>    
+        <ul>
+          <li>Single player 2D action platformer.</li>
+          <li>Made by Team Revenants for VFS team project.</li>
+          <li>To play click on the image above or 👇</li>
+        </ul>  
+      </td>
+    </tr>
+  </table>
+</p>
+<p align="center">
+  <a target="_blank" href="https://drkalavera.itch.io/catlisseum">
+    <img alt="Itch.io" height="48px"
+      src="assets/badge-color.svg" />
+  </a>
+</p>
 
 ### 🐱‍💻 Some other (cool) projects:
 ---
@@ -51,32 +67,30 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
 <p align="center">
   <a href="https://github.com/karloconk/luckyCookie">
     <img align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=karloconk&repo=luckyCookie&theme=graywhite" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=karloconk&repo=luckyCookie&theme=buefy " />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/karloconk/Tora">
     <img align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=karloconk&repo=Tora&theme=graywhite" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=karloconk&repo=Tora&theme=buefy " />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/karloconk/werewolves_and_wanderers">
     <img align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=karloconk&repo=werewolves_and_wanderers&theme=graywhite" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=karloconk&repo=werewolves_and_wanderers&theme=buefy " />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/karloconk/Angry-Key">
     <img align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=karloconk&repo=Angry-Key&theme=graywhite" />
+      src="https://github-readme-stats.vercel.app/api/pin/?username=karloconk&repo=Angry-Key&theme=buefy " />
   </a>
 </p>
-
-<br>
 
 ### ✨ Languages:
 ---
@@ -150,16 +164,15 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
   <img alt="Xcode" width="24px"
     src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials.png" />
 </p>
-<br>
 
 ### 📈 Some stats:
 ---
 <br>
 <p align="center">
   <img width="400px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karloconk&layout=compact&theme=graywhite" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karloconk&layout=compact&theme=buefy " />
 </p>
 <p align="center">
   <img width="400px"
-    src="https://github-readme-stats.vercel.app/api?username=karloconk&theme=graywhite&show_icons=true" />
+    src="https://github-readme-stats.vercel.app/api?username=karloconk&theme=buefy &show_icons=true" />
 </p>
