@@ -72,10 +72,10 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
 
 <h3 align="center"> 🐱 Catlisseum: 🐱  </h3>
 <p  align="center">
-  <table align="center" border="0px">
+  <table align="center" style="border:0px solid black">
     <tr>
       <td>    
-        <ul>
+        <ul text-align="center">
           <li>Single player 2D action platformer.</li>
           <li>Made by Team Revenants for VFS team project.</li>
           <li>To play click on the image above or 👇</li>
