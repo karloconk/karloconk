@@ -4,7 +4,6 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
 
 ### 🤓 Some things about me:
 ---
-<br>
 
 - 🦾 Just finished working on my VFS final project.
 - 🌱 I’m currently learning more Game development.
@@ -13,7 +12,7 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
 - 🐱‍👓 Reach me on my Linkedin.
 - 🎹 I also make music as a hobby. That's my SoundCloud 👉 <a target="_blank" href="https://soundcloud.com/dr-kalavera">
   <img align="center" alt="SoundCloud" width="22px"
-    src="https://cdn3.iconfinder.com/data/icons/picons-social/57/74-soundcloud-512.png" />
+    src="https://cdn-icons-png.flaticon.com/512/145/145809.png" />
 </a>
 
 ### 🤵 My LinkedIn:
@@ -40,7 +39,7 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
 
 <h3 align="center"> 🐱 Catlisseum: 🐱  </h3>
 <p  align="center">
-  <table align="center">
+  <table align="center" border="0px">
     <tr>
       <td>    
         <ul>
