@@ -28,6 +28,39 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
 
 ### 🔥 Latest projects:
 ---
+<!-- 
+<br>
+<p align="center">
+  <a target="_blank" href="https://drkalavera.itch.io/catlisseum">
+    <img alt="Catlisseum" width="400px"
+      src="assets/CatlisseumTitle.png" />
+  </a>
+</p>
+-->
+<h3 align="center"> 🐺 Not Raised By Wolves: 🐺 </h3>
+<p  align="center">
+  <table align="center" border="0px">
+    <tr>
+      <td>    
+        <ul>
+          <li>Single-player third person shooter.</li>
+          <li>Made by Team Fingerguns for VFS final project.</li>
+          <li>In progress</li>
+        </ul>  
+      </td>
+    </tr>
+  </table>
+</p>
+<!-- 
+<p align="center">
+  <a target="_blank" href="https://drkalavera.itch.io/catlisseum">
+    <img alt="Itch.io" height="48px"
+      src="assets/badge-color.svg" />
+  </a>
+</p>
+-->
+
+---
 
 <br>
 <p align="center">
