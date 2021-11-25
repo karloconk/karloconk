@@ -1,5 +1,5 @@
 <h1 align="center">🌚 Hello, I'm Karlo 🌝</h1>
-<!-- Maybe add some images up here -->
+
 I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Currently making games 👾
 
 <br>
@@ -25,15 +25,25 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
 
 <br>
 <p align="center">
-
   <a target="_blank" href="https://www.linkedin.com/in/jose-karlo-hurtado-corona-078850bb">
     <img alt="LinkedIn" width="48px"
       src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />
   </a>
-
 </p>
 
-### 🐱‍💻 Some cool projects:
+### 🔥 Latest (cool) projects:
+---
+
+<br>
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/jose-karlo-hurtado-corona-078850bb">
+    <img alt="LinkedIn" width="400px"
+      src="assets/rounded_catlisseum.gif" />
+  </a>
+</p>
+
+
+### 🐱‍💻 Some other (cool) projects:
 ---
 
 <br>
@@ -72,7 +82,6 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
 ---
 <br>
 <p align="center">
-
   <img alt="c" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img alt="clojure" width="24px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" />
@@ -148,10 +157,9 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
 <br>
 <p align="center">
   <img width="400px"
-    src="https://github-readme-stats.vercel.app/api?username=karloconk&theme=graywhite&show_icons=true" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karloconk&layout=compact&theme=graywhite" />
 </p>
-
 <p align="center">
   <img width="400px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=karloconk&layout=compact&theme=graywhite" />
+    src="https://github-readme-stats.vercel.app/api?username=karloconk&theme=graywhite&show_icons=true" />
 </p>
