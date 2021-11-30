@@ -28,22 +28,22 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
 
 ### 🔥 Latest projects:
 ---
-<!-- 
+
 <br>
 <p align="center">
-  <a target="_blank" href="https://drkalavera.itch.io/catlisseum">
-    <img alt="Catlisseum" width="400px"
-      src="assets/CatlisseumTitle.png" />
+  <a target="_blank" href="">
+    <img alt="NRBW" width="400px" src="assets/NRBWTitle.png" />
   </a>
 </p>
--->
+
 <h3 align="center"> 🐺 Not Raised By Wolves: 🐺 </h3>
 <p  align="center">
   <table align="center" border="0px">
     <tr>
       <td>    
         <ul>
-          <li>Single-player third person shooter.</li>
+          <li>Single player third person shooter.</li>
+          <li>Made with Unity HDRP.</li>
           <li>Made by Team Fingerguns for VFS final project.</li>
           <li>In progress</li>
         </ul>  
@@ -78,8 +78,8 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
         <hr>
         <ul>
           <li>Single player 2D action platformer.</li>
+          <li>Made with Unity URP.</li>
           <li>Made by Team Revenants for VFS team project.</li>
-          <li>To play click on the image 👆 or 👇</li>
         </ul>  
       </td>
     </tr>
