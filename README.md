@@ -36,11 +36,12 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
   </a>
 </p>
 
-<h3 align="center"> 🐺 Not Raised By Wolves: 🐺 </h3>
 <p  align="center">
-  <table align="center" border="0px">
+  <table align="center" style="border:0px solid black">
     <tr>
-      <td>    
+      <td>   
+        <h3 align="center"> 🐺 Not Raised By Wolves: 🐺 </h3>
+        <hr>    
         <ul>
           <li>Single player third person shooter.</li>
           <li>Made with Unity HDRP.</li>
@@ -132,24 +133,27 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
 ---
 <br>
 <p align="center">
-  <img alt="c" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img alt="clojure" width="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" />
-  <img alt="cplusplus" width="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="swift" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
   <img alt="csharp" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img alt="java" width="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img alt="python" width="32px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img alt="swift" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-  <img alt="ruby" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
+  <img alt="java" width="32px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img alt="javascript" width="32px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img alt="typescript" width="32px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="cplusplus" width="32px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="ruby" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
   <img alt="html" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="css" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img alt="c" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="clojure" width="32px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" />
+  <img alt="Mathematica" width="32px"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mathematica_Logo.svg/190px-Mathematica_Logo.svg.png" />
+    
 
 </p>
 
@@ -169,11 +173,7 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
   <img alt="Firebase" width="32px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <img alt="Flask" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-  <img alt="Flutter" width="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img alt="git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  <img alt="github" width="36px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img alt="Google Cloud" width="32px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
   <img alt="Heroku" width="32px"
