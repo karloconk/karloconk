@@ -31,7 +31,7 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
 
 <br>
 <p align="center">
-  <a target="_blank" href="">
+  <a target="_blank" href="https://www.youtube.com/watch?v=ZZrZpKT820E">
     <img alt="NRBW" width="400px" src="assets/NRBW_Title.png" />
   </a>
 </p>
@@ -45,20 +45,23 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
           <li>Single player third person shooter.</li>
           <li>Made with Unity HDRP.</li>
           <li>Made by Team Fingerguns for VFS final project.</li>
-          <li>In progress</li>
+          <li>Watch the trailer 👉 <a target="_blank" href="https://www.youtube.com/watch?v=ZZrZpKT820E">
+            <img align="center" alt="Youtube" width="22px"
+              src="assets/youtubeLogo.png" />
+            </a>
+          </li>
+          <li>Available soon on 👇</li>
         </ul>  
       </td>
     </tr>
   </table>
 </p>
-<!-- 
 <p align="center">
-  <a target="_blank" href="https://drkalavera.itch.io/catlisseum">
-    <img alt="Itch.io" height="48px"
-      src="assets/badge-color.svg" />
+  <a target="_blank" href="http://community.vfs.com/arcade">
+    <img alt="VFS Arcade" height="48px"
+      src="http://community.vfs.com/arcade/wp-content/themes/vfsarcade/img/VFS-Arcade-Logo_2019.png" />
   </a>
 </p>
--->
 
 ---
 
@@ -147,7 +150,6 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="html" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="css" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img alt="sass" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
 </p>
 
@@ -156,8 +158,8 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
 <br>
 <p align="center">
 
-  <img alt="Unity" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-  <img alt="Unreal" width="32px" src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png" />
+  <img alt="Unity" width="32px" src="assets/UnityLogo.png" />
+  <img alt="Unreal" width="32px" src="assets/UnrealLogo.png" />
   <img alt="Angular" width="32px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img alt="Bitbucket" width="32px"
@@ -166,27 +168,27 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img alt="Firebase" width="32px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-  <img alt="Flask" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img alt="Flask" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
   <img alt="Flutter" width="32px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img alt="git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-  <img alt="github" width="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img alt="git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  <img alt="github" width="36px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img alt="Google Cloud" width="32px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
   <img alt="Heroku" width="32px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
   <img alt="IntelliJ" width="32px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />
-  <img alt="Jira" width="32px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  <img alt="Jira" width="48px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
-  <img alt="K8" width="32px"
+  <img alt="K8" width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
-  <img alt="Mongo" width="32px"
+  <img alt="Mongo" width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img alt="SQL" width="32px"
+  <img alt="SQL" width="40px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img alt="Node" width="32px"
+  <img alt="Node" width="44px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img alt="Slack" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
   <img alt="SourceTree" width="32px"
