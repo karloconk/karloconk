@@ -193,6 +193,8 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
   <img alt="Slack" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
   <img alt="SourceTree" width="32px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" />
+  <img alt="GitHub" width="32px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img alt="VS" width="32px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img alt="VS Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
