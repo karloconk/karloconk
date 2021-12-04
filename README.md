@@ -1,11 +1,11 @@
 <h1 align="center">🌚 Hello, I'm Karlo 🌝</h1>
 
-I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Currently making games 👾
+I'm a Software Engineer with Full Stack and mobile (iOS) experience. <br> Currently making games 👾
 
 ### 🤓 Some things about me:
 ---
 
-- 🦾 Just finished working on my VFS final project.
+- 🦾 Just finished working on my VFS final project (check it out below).
 - 🌱 I’m currently learning more Game development.
 - 🔮 I’m looking to expand my knowledge on C++ and Unreal.
 - 🐶 Ask me about my doggies.
@@ -31,7 +31,7 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
 
 <br>
 <p align="center">
-  <a target="_blank" href="https://www.youtube.com/watch?v=ZZrZpKT820E">
+  <a target="_blank" href="https://community.vfs.com/arcade/game/not-raised-by-wolves/">
     <img alt="NRBW" width="400px" src="assets/NRBW_Title.png" />
   </a>
 </p>
@@ -44,21 +44,16 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
         <hr>    
         <ul>
           <li>Single player third person shooter.</li>
-          <li>Made with Unity HDRP.</li>
+          <li>Made with Unity (HDRP).</li>
           <li>Made by Team Fingerguns for VFS final project.</li>
-          <li>Watch the trailer 👉 <a target="_blank" href="https://www.youtube.com/watch?v=ZZrZpKT820E">
-            <img align="center" alt="Youtube" width="22px"
-              src="assets/youtubeLogo.png" />
-            </a>
-          </li>
-          <li>Available soon on 👇</li>
         </ul>  
       </td>
     </tr>
   </table>
 </p>
+<h4 align="center">Available on 👇</h3>
 <p align="center">
-  <a target="_blank" href="http://community.vfs.com/arcade">
+  <a target="_blank" href="https://community.vfs.com/arcade/game/not-raised-by-wolves/">
     <img alt="VFS Arcade" height="48px"
       src="http://community.vfs.com/arcade/wp-content/themes/vfsarcade/img/VFS-Arcade-Logo_2019.png" />
   </a>
@@ -82,7 +77,7 @@ I'm a software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
         <hr>
         <ul>
           <li>Single player 2D action platformer.</li>
-          <li>Made with Unity URP.</li>
+          <li>Made with Unity (URP).</li>
           <li>Made by Team Revenants for VFS team project.</li>
         </ul>  
       </td>
