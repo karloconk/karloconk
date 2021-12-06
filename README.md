@@ -7,7 +7,7 @@ I'm a Software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
 
 - 🦾 Just finished working on my VFS final project (check it out below).
 - 🌱 I’m currently learning more Game development.
-- 🔮 I’m looking to expand my knowledge on C++ and Unreal.
+- 🔮 I’m looking to expand my knowledge on C++, Unreal and Unity.
 - 🐶 Ask me about my doggies.
 - 🐱‍👓 Reach me on my Linkedin.
 - 🎹 I also make music as a hobby. That's my SoundCloud 👉 <a target="_blank" href="https://soundcloud.com/dr-kalavera">
