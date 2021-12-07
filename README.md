@@ -128,8 +128,8 @@ I'm a Software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
 ---
 <br>
 <p align="center">
-  <img alt="swift" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
   <img alt="csharp" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img alt="swift" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
   <img alt="python" width="32px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img alt="java" width="32px"
