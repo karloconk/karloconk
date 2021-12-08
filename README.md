@@ -190,7 +190,9 @@ I'm a Software Engineer with Full Stack and mobile (iOS) experience. <br> Curren
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original.svg" />
   <img alt="GitHub" width="32px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="VS" width="32px"
+  <img alt="Wwise" width="38px"
+    src="assets/wwise.png" />
+  <img alt="Visual Studio" width="32px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img alt="VS Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img alt="Xcode" width="32px"
