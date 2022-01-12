@@ -1,6 +1,6 @@
 <h1 align="center">🌚 Hello, I'm Karlo 🌝</h1>
 
-I'm a Software Engineer with Full Stack and mobile (iOS) experience. <br> Currently making games 👾
+I'm a Software Engineer with Full Stack and mobile (iOS) experience. <br> I also make games 👾
 
 ### 🤓 Some things about me:
 ---
