@@ -6,7 +6,7 @@ I'm a Software Engineer with Full Stack and mobile (iOS) experience. <br> I also
 ---
 
 - 🦾 Just finished working on my VFS final project (check it out below).
-- 🌱 I’m currently learning more AR and checking out new Swift features.
+- 🌱 I’m currently learning more Unity, Unreal, AR and checking out new Swift features.
 - 🔮 I’m looking to expand my knowledge on C++, Swift, AR, Unreal and Unity.
 - 🐶 Ask me about my doggies.
 - 🐱‍👓 Reach me on my Linkedin.
