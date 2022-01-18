@@ -5,9 +5,9 @@ I'm a Software Engineer with Full Stack and mobile (iOS) experience. <br> I also
 ### 🤓 Some things about me:
 ---
 
-- 🦾 Just finished working on my VFS final project (check it out below).
+- 🦾 Just finished working on my VFS final project (check it out below). Update: It's nominated for Unity Awards 2021 🎉🎊.
 - 🌱 I’m currently learning more Unity, Unreal, AR and checking out new Swift features.
-- 🔮 I’m looking to expand my knowledge on C++, Swift, AR, Unreal and Unity.
+- 🔮 I’m looking to expand my knowledge on C++, C#, Swift, AR, Unreal and Unity.
 - 🐶 Ask me about my doggies.
 - 🐱‍👓 Reach me on my Linkedin.
 - 🎹 I also make music as a hobby. That's my SoundCloud 👉 <a target="_blank" href="https://soundcloud.com/dr-kalavera">
@@ -44,6 +44,7 @@ I'm a Software Engineer with Full Stack and mobile (iOS) experience. <br> I also
         <hr>    
         <ul>
           <li>Single player third person shooter.</li>
+          <li>🎊🎉Nominated for Unity Awards 2021 🎉🎊</li>
           <li>Made with Unity (HDRP).</li>
           <li>Made by Team Fingerguns for VFS final project.</li>
         </ul>  
